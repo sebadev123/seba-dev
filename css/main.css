@@ -81,7 +81,7 @@ p, h1, h2, h3, h4, h5, h6 {
 
 .col-2, .col-3, .col-4 {
   flex: 1;
-  min-width: 200px;
+  min-width: 250px;
 }
 
 .col-2 {
